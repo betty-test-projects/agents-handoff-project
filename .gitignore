@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Project specific
+runs/*
+!runs/.gitkeep
+
+# Task manager runtime (created when app runs)
+task_manager/tasks.db
+task_manager/instance/
+task_manager_baseline/
