@@ -40,7 +40,7 @@ Each item below is a short pointer to the finding and the article that develops 
 
 **Dialogue between agents converges on the spec, not the user.** When dialogue did emerge, A and B bilaterally ratified a spec-consistent outcome that broke the user experience — newly created recurring tasks visibly disappeared from the task list, leaving only a small toast notification behind. → [Part 4 — Inviting the Wrong Side First](https://medium.com/@betty.lin.twn/when-agents-talk-part-4-the-conversation-begins-a6d0fbfac07c)
 
-**QA begins where the specification ends.** Agent B did not perform QA verification in any run. Its failures were noticing-level, not surfacing-level: the model did not intelligently fill gaps left by spec vagueness. Useful output from vague prompts, when it appears, reflects learned user patterns, coincidence, or base rate. → [Part 5 — The Role That Stayed With Me](TBD)
+**QA begins where the specification ends.** Agent B did not perform QA verification in any run. Its failures were noticing-level, not surfacing-level: the model did not intelligently fill gaps left by spec vagueness. Useful output from vague prompts, when it appears, reflects learned user patterns, coincidence, or base rate. → [Part 5 — The Role That Stayed With Me](https://medium.com/@betty.lin.twn/when-agents-talk-part-5-the-role-that-stayed-with-me-6c7875a4306f)
 
 The series opens with [Part 1 — Two Agents, One Room](https://medium.com/@betty.lin.twn/when-agents-talk-part-1-two-agents-one-room-9fcd97e5eb3f) and [Part 2 — The Roles I Didn't Assign](https://medium.com/@betty.lin.twn/when-agents-talk-part-2-the-roles-i-didnt-assign-b6b766d5e435), which cover motivation and design; Parts 3–5 report observations.
 
